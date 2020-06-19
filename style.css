@@ -1,0 +1,55 @@
+*{
+	font-family: monospace;
+}
+
+
+header{
+	padding: 30px;
+	background-color: black;
+	color: white;
+}
+
+hr{
+	border-top: 3px solid black;
+}
+
+
+
+li a{
+	color: white;
+	text-decoration: none;
+}
+
+li a:hover{
+	color: red;
+}
+
+
+ul{
+	list-style: : none;
+	display: inline;
+}
+
+header li{
+	display: inline;
+	margin: 150px;
+
+
+}
+
+h1{
+	font-family: monospace;
+	text-align: center;
+}
+
+footer{
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding: 20px;
+}
+iframe{
+	display: block; 
+	margin: auto;
+	margin-top: : 100px; 
+}
